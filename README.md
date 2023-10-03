@@ -1,4 +1,4 @@
-﻿**Abstract:**
+##﻿**Abstract:**
 
 This project aims towards creating an optical character recognition system to be
 
@@ -6,9 +6,9 @@ used within the organization. The primary objective is to create a backend syste
 
 that identifies text within pdf and image files.
 
-**Requirement Specification:**
+##**Requirement Specification:**
 
-**Hardware Requirements:**
+###**Hardware Requirements:**
 
 **Hardware Component, Requirement**
 
@@ -18,7 +18,7 @@ that identifies text within pdf and image files.
 
 - Processor, Intel core i5
 
-**Software Requirements (libraries & dependencies):**
+###**Software Requirements (libraries & dependencies):**
 
 • Python IDLE (development environment) 3.9 or above.
 
@@ -34,9 +34,9 @@ Python applications).
 
 • Pillow library (fast access to data stored in a few basic pixel formats)
 
-**Approach:**
+##**Approach:**
 
-**Installation:**
+###**Installation:**
 
 Assuming we have a python IDLE present, we begin with the installation of the
 
@@ -56,7 +56,7 @@ Tesseract-OCR folder as its value as shown below.
 
 We also install the python libraries required using package installer python (pip).
 
-**Detecting text in PDF file:**
+###**Detecting text in PDF file:**
 
 • Firstly, we import the required library which is PyPDF2.
 
@@ -70,7 +70,7 @@ We also install the python libraries required using package installer python (pi
 
 • Print or perform other operations with the extracted text.
 
-**Detecting text in an image:**
+###**Detecting text in an image:**
 
 • Import Required libraries which are pytesseract and pillow.
 
@@ -80,9 +80,9 @@ We also install the python libraries required using package installer python (pi
 
 • Print or perform other operations with extracted text.
 
-**Results:**
+##**Results:**
 
-**Detecting text in image:**
+###**Detecting text in image:**
 
 Input:<br><br><br><br><br><br>
 ![Input image](sample_text.png)
@@ -93,7 +93,7 @@ Code snippet:<br><br>
 Result:<br><br>
 ![Resultant extracted text from image](image_result.png)
 
-**Detecting text in PDF file:**
+###**Detecting text in PDF file:**
 
 Input:<br><br><br><br><br>
 ![Input PDF page](pdf_file_page_image.png)
@@ -105,7 +105,7 @@ Result:<br><br><br><br><br><br>
 ![Resultant extracted text from pdf](pdf_result.png)
 
 
-**Conclusion:**
+##**Conclusion:**
 
 The project demonstrates a proof of concept for development of a system that can
 
