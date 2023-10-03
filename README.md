@@ -1,7 +1,4 @@
-
-
-
-##﻿ **Abstract:**
+**Abstract:**
 
 This project aims towards creating an optical character recognition system to be
 
