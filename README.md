@@ -1,4 +1,6 @@
 
+
+
 ##﻿ **Abstract:**
 
 This project aims towards creating an optical character recognition system to be
@@ -71,7 +73,7 @@ We also install the python libraries required using package installer python (pi
 
 • Print or perform other operations with the extracted text.
 
-###**Detecting text in an image:**
+### **Detecting text in an image:**
 
 • Import Required libraries which are pytesseract and pillow.
 
@@ -106,7 +108,7 @@ Result:<br><br><br><br><br><br>
 ![Resultant extracted text from pdf](pdf_result.png)
 
 
-##**Conclusion:**
+## **Conclusion:**
 
 The project demonstrates a proof of concept for development of a system that can
 
