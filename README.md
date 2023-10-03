@@ -1,3 +1,4 @@
+
 ##﻿ **Abstract:**
 
 This project aims towards creating an optical character recognition system to be
@@ -6,7 +7,7 @@ used within the organization. The primary objective is to create a backend syste
 
 that identifies text within pdf and image files.
 
-##**Requirement Specification:**
+## **Requirement Specification:**
 
 ### **Hardware Requirements:**
 
