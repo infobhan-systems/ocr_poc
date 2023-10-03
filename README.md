@@ -96,7 +96,7 @@ Result:<br><br>
 **Detecting text in PDF file:**
 
 Input:<br><br><br><br><br>
-![Input PDF page](pdf_file_page_image)
+![Input PDF page](pdf_file_page_image.png)
 
 Code Sinppet:<br><br><br><br>
 ![code snippet for extracting text from pdf](pdf_code.png)
