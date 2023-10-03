@@ -95,10 +95,10 @@ Result:<br><br>
 
 **Detecting text in PDF file:**
 
-Input:<br><br><br><br><br><br>
+Input:<br><br><br><br><br>
 ![Input PDF page](pdf_file_page_image)
-<br><br>
-Code Sinppet:<br><br>
+
+Code Sinppet:<br><br><br><br>
 ![code snippet for extracting text from pdf](pdf_code.png)
 <br><br>
 Result:<br><br><br><br><br><br>
