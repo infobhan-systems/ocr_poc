@@ -10,21 +10,13 @@ that identifies text within pdf and image files.
 
 **Hardware Requirements:**
 
-**Hardware Component**
+**Hardware Component, Requirement**
 
-RAM
+- RAM, 4GB.
 
-**Requirement**
+- Storage/Hard Disk/SSD, 100 GB.
 
-4 GB
-
-Storage/Hard Disk/SSD
-
-Processor
-
-100 GB
-
-Intel core i5
+- Processor, Intel core i5
 
 **Software Requirements (libraries & dependencies):**
 
@@ -97,6 +89,7 @@ Input:
 
 Code snippet:
 ![code snippet for extracting text from image](image_code.png)
+
 Result:
 ![Resultant extracted text from image](image_result.png)
 
@@ -104,11 +97,13 @@ Result:
 
 Input:
 ![Input PDF page][pdf_file_page_image]
-[code snippet for extracting text from pdf](pdf_code.png)
+
+Code Sinppet:
+![code snippet for extracting text from pdf](pdf_code.png)
+
 Result:
 ![Resultant extracted text from pdf](pdf_result.png)
 
-Result:
 
 **Conclusion:**
 
