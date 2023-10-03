@@ -84,24 +84,24 @@ We also install the python libraries required using package installer python (pi
 
 **Detecting text in image:**
 
-Input:
+Input:<br><br>
 ![Input image](sample_text.png)
 
-Code snippet:
+Code snippet:<br><br>
 ![code snippet for extracting text from image](image_code.png)
 
-Result:
+Result:<br><br>
 ![Resultant extracted text from image](image_result.png)
 
 **Detecting text in PDF file:**
 
-Input:
-![Input PDF page][pdf_file_page_image]
+Input:<br><br>
+![Input PDF page](pdf_file_page_image)
 
-Code Sinppet:
+Code Sinppet:<br><br>
 ![code snippet for extracting text from pdf](pdf_code.png)
 
-Result:
+Result:<br><br>
 ![Resultant extracted text from pdf](pdf_result.png)
 
 
