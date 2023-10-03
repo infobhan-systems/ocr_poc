@@ -53,14 +53,14 @@ tesseract-ocr engine by downloading the executable file for windows. After
 installation process is complete, we are required to add the path of the tesseract
 
 engine to the environment variables as shown in image below.
-![environment variable 1][env_1.png]
+![environment variable 1](env_1.png)
 
 Additionally, we also add a new variable in the user variable with title of
 
 TESSDATA_PREFIX and add path to the folder titled tessdata within the
 
 Tesseract-OCR folder as its value as shown below.
-![environment variable 2][env_2.png]
+![environment variable 2](env_2.png)
 
 We also install the python libraries required using package installer python (pip).
 
@@ -93,20 +93,20 @@ We also install the python libraries required using package installer python (pi
 **Detecting text in image:**
 
 Input:
-![Input image][sample_text.png]
+![Input image](sample_text.png)
 
 Code snippet:
-![code snippet for extracting text from image][image_code.png]
+![code snippet for extracting text from image](image_code.png)
 Result:
-![Resultant extracted text from image][image_result.png]
+![Resultant extracted text from image](image_result.png)
 
 **Detecting text in PDF file:**
 
 Input:
 ![Input PDF page][pdf_file_page_image]
-[code snippet for extracting text from pdf][pdf_code.png]
+[code snippet for extracting text from pdf](pdf_code.png)
 Result:
-![Resultant extracted text from pdf][pdf_result.png]
+![Resultant extracted text from pdf](pdf_result.png)
 
 Result:
 
